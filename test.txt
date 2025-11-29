@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+wersja z test
+=======
+wersja z test_2
+>>>>>>> test_2
