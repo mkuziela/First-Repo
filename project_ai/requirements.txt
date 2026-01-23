@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+celery
+python-multipart
+opencv-python-headless
+requests
+pika
