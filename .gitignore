@@ -1,1 +1,11 @@
 .idea
+.venv/
+__pycache__/
+project_ai/uploaded_images/*
+project_ai/processed_images/*
+!project_ai/uploaded_images/.gitkeep
+!project_ai/processed_images/.gitkeep
+*.pb
+*.pbtxt
+*.tar.gz
+ssd_mobilenet_v2_coco_2018_03_29/
